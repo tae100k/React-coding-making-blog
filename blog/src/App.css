@@ -41,6 +41,12 @@
   color: white;
 }
 
+.modal {
+  margin-top: 20px;
+  background-color: lightgray;
+  padding: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }
